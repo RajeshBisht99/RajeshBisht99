@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajeshBisht99
-- 👀 I’m interested in web devleopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react-redux-thunk-saga
 - 💞️ I’m looking to collaborate on front end work
 - 📫 How to reach me braj40079@gamil.com
